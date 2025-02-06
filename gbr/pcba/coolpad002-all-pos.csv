@@ -1,0 +1,19 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,1u,R_0603_1608Metric,134.69,-46.235,90,bottom
+C2,1u,R_0603_1608Metric,131.55,-46.275,-90,bottom
+C3,100n,R_0603_1608Metric,137.82,-46.24,-90,bottom
+C4,10n,R_0603_1608Metric,140.88,-46.32,-90,bottom
+C5,100n (X7R),R_0603_1608Metric,143.94,-46.21,-90,bottom
+C6,10u (X7R),R_0603_1608Metric,151.39,-28.75,180,bottom
+C7,10n (X7R),R_0603_1608Metric,151.39,-31.75,180,bottom
+C8,100n,R_0603_1608Metric,151.39,-34.75,180,bottom
+C9,3.3u/25V,R_0603_1608Metric,151.39,-37.75,180,bottom
+R1,2M,C_0603_1608Metric,151.39,-40.75,180,bottom
+U1,MCP1700T-1802E/TT,SOT-23,122.57,-38.4625,-90,bottom
+U2,PMW3610,PMW3610DM-SUDU 16Pin,137.520893,-34.407107,180,bottom
+BT1,BATT,Battery_BMP_2pin,152.074,-14.87,90,top
+D1,D,Diode_SMD,132.68,-54.78,0,bottom
+D5,D,Diode_SMD,140.175,-54.81,0,bottom
+SW1,SW_SPDT,TGSW_MSK-12D19,152.25,0.196,0,top
+SW2,SW_PUSH,CherryMX_MidHeight_Choc_Hotswap_katagawa,127.755,-65.18,0,top
+SW6,SW_PUSH,CherryMX_MidHeight_Choc_Hotswap_katagawa,146.865,-65.17,0,top
